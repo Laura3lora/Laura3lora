@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Laura3lora
 - 👀 I’m interested in becoming an unique personality and an inspiration.
 - 🌱 I’m currently learning Python programming.
-- 💞️ I’m looking to collaborate on various interresting projects.
+- 💞️ I’m looking to collaborate on various interesting projects.
 - 📫 How to reach me .....
 
 <!---
